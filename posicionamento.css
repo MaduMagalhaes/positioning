@@ -1,5 +1,7 @@
 .esqcima {
   background-color: red;
+  height: 100px;
+  width: 100px;
   position: absolute;
   left: 0%;
   top: 0%;
@@ -7,6 +9,8 @@
 
 .esqbaixo {
   background-color: green;
+  height: 100px;
+  width: 100px;
   position: absolute;
   left: 0%;
   bottom: 0%;
@@ -14,6 +18,8 @@
 
 .dircima {
   background-color: yellow;
+  height: 100px;
+  width: 100px;
   position: absolute;
   right: 0%;
   top: 0%;
@@ -21,6 +27,8 @@
 
 .dirbaixo {
   background-color: blue;
+  height: 100px;
+  width: 100px;
   position: absolute;
   right: 0%;
   bottom: 0%;
